@@ -1,0 +1,61 @@
+# Copyright (C) 2014 Rezdy
+# This file is distributed under the same license as the Rezdy package.
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/rezdy\n"
+"POT-Creation-Date: 2014-07-01 19:19+1000\n"
+"PO-Revision-Date: 2014-07-01 19:19+1000\n"
+"Last-Translator: Rezdy <info@rezdy.com>\n"
+"Language-Team: Rezdy <info@rezdy>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-rezdy-admin.php:206 admin/class-rezdy-admin.php:402
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-rezdy-admin.php:207
+msgid "Rezdy"
+msgstr "Rezdy"
+
+#: admin/class-rezdy-admin.php:216 admin/class-rezdy-admin.php:217
+msgid "Help"
+msgstr "Help"
+
+#: admin/class-rezdy-admin.php:235
+msgid "General Settings"
+msgstr "General Settings"
+
+#: admin/class-rezdy-admin.php:242
+msgid "Alias"
+msgstr "Alias"
+
+#: admin/class-rezdy-admin.php:271
+msgid "Please enter your rezdy.com alias or url "
+msgstr "Please enter your rezdy.com alias or url"
+
+#: admin/class-rezdy-admin.php:273
+msgid "(need help finding it?)"
+msgstr "(need help finding it?)"
+
+#: admin/class-rezdy-admin.php:345
+msgid "Alias does not exist: "
+msgstr "Alias does not exist: "
+
+#~ msgid "Shortcode Button"
+#~ msgstr "Shortcode Button"
+
+#~ msgid "Show 'Add Rezdy Shortcode' Button on Editor"
+#~ msgstr "Show 'Add Rezdy Shortcode' Button on Editor"
+
+#~ msgid "Administration"
+#~ msgstr "Administration"

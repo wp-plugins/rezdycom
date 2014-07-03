@@ -1,0 +1,36 @@
+
+    #rezdy-options
+    {
+        background-color: #007994;
+        border: 1px solid #aaa;
+        margin-top: 20px;
+        padding: 20px;
+    }
+
+
+    #rezdy-settings .form-fields
+    {
+        background-color: #FFF;
+        padding: 1px 20px 1px 20px;
+        margin-top: 20px;
+    }
+
+    #rezdy-settings .rezdy-help-list h4
+    {
+        margin-bottom: 0px;
+
+    }
+
+    #rezdy-settings .rezdy-help-list h4 + p
+    {
+        margin-top: 5px;
+
+    }
+
+    #rezdy-settings .rezdy-helper
+    {
+        color: #aaa;
+        font-size: 16px;
+    }
+
+
