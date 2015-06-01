@@ -54,6 +54,12 @@ Information on using the Rezdy Wordpress Plugin can be found at our support site
 
 * https://support.rezdy.com/entries/47217670-How-to-use-Rezdy-Wordpress-plugin
 
+
+== Contribute ==
+
+Developers can fork this plugin using Git from https://bitbucket.org/rezdy/wp-plugin
+
+
 == Changelog ==
 = 1.1 =
 * Added Help Documentation
